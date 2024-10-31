@@ -1,0 +1,10 @@
+.paragrafo-padrao{
+    background-color: green;
+    margin: 40px;
+    padding: 20px;
+}
+.paragrafo-destacado{
+    background-color: rgb(232, 7, 187);
+    margin: 40px;
+    padding: 20px;
+}
